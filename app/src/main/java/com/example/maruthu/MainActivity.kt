@@ -1,10 +1,7 @@
 package com.example.maruthu
 
-import android.content.Context
-import android.graphics.drawable.Drawable
 import android.os.Bundle
 import android.view.View
-import android.widget.Button
 import android.widget.TextView
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
